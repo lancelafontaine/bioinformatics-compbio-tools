@@ -5,6 +5,8 @@ This repository contains a list of useful bioinformatics (and computational biol
 # General Resources and Databases.
 
 - [National Center for Biotechnology Information (NCBI)](http://www.ncbi.nlm.nih.gov/)
+- [ExPASy SIB Bioinformatics Resource Portal](http://www.expasy.org/)
+- [European Molecular Biology Laboratory - European Bioinformatics Institute (EMBL-EBI)](http://www.ebi.ac.uk/)
 
 
 
