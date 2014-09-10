@@ -8,5 +8,12 @@ This repository contains a list of useful bioinformatics (and computational biol
 - [ExPASy SIB Bioinformatics Resource Portal](http://www.expasy.org/)
 - [European Molecular Biology Laboratory - European Bioinformatics Institute (EMBL-EBI)](http://www.ebi.ac.uk/)
 
+# Vector Viewing, Editing and Annotating.
+
+- [Benchling](https://benchling.com/)
+- [j5 Vector Editor](http://j5.jbei.org/VectorEditor/VectorEditor.html) by the Joint BioEnergy Resource
+- [GENtle](https://gentle.synbiota.com/) by Synbiota
+- [SnapGene](http://www.snapgene.com/)
+
 
 
