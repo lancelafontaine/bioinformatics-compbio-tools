@@ -15,5 +15,8 @@ This repository contains a list of useful bioinformatics (and computational biol
 - [GENtle](https://gentle.synbiota.com/) by Synbiota
 - [SnapGene](http://www.snapgene.com/)
 
+# Single Sequence Editing and Analysis.
 
-
+- [OligoAnalyzer](http://www.idtdna.com/analyzer/applications/oligoanalyzer/Default.aspx) by Integrated DNA Technologies (IDT)
+- [fr33.net - Life Science Tools](http://www.fr33.net/index.php)
+- [OligoCalc](http://www.basic.northwestern.edu/biotools/OligoCalc.html)
