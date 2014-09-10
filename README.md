@@ -1,4 +1,4 @@
-# Bioinformatics Tool List
+# Bioinformatics Tool List.
 
 This repository contains a list of useful bioinformatics (and computational biology) tools. These web and desktop programs are all free unless indicated otherwise, and are sorted by category. Please contribute by forking this list!
 
@@ -20,6 +20,11 @@ This repository contains a list of useful bioinformatics (and computational biol
 - [OligoAnalyzer](http://www.idtdna.com/analyzer/applications/oligoanalyzer/Default.aspx) by Integrated DNA Technologies (IDT)
 - [fr33.net - Life Science Tools](http://www.fr33.net/index.php)
 - [OligoCalc](http://www.basic.northwestern.edu/biotools/OligoCalc.html)
+
+# Question and Answers Websites.
+
+- [Biostars: Bioinformatics Explained](https://www.biostars.org/)
+- [StackExchange Biology Beta](http://biology.stackexchange.com/)
 
 # Disclaimer
 
