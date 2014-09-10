@@ -20,3 +20,7 @@ This repository contains a list of useful bioinformatics (and computational biol
 - [OligoAnalyzer](http://www.idtdna.com/analyzer/applications/oligoanalyzer/Default.aspx) by Integrated DNA Technologies (IDT)
 - [fr33.net - Life Science Tools](http://www.fr33.net/index.php)
 - [OligoCalc](http://www.basic.northwestern.edu/biotools/OligoCalc.html)
+
+# Disclaimer
+
+I do not own or am not affiliated with any of these products, projects, services, companies, institutes or organizations referenced in this list.
