@@ -21,6 +21,10 @@ This repository contains a list of useful bioinformatics (and computational biol
 - [fr33.net - Life Science Tools](http://www.fr33.net/index.php)
 - [OligoCalc](http://www.basic.northwestern.edu/biotools/OligoCalc.html)
 
+### Phylogenetic Analysis
+
+- [Molecular Evolutionary Genetics Analysis (MEGA)](http://www.megasoftware.net/)
+
 ### 3D Molecular Modelling.
 
 - [PyMoL](http://pymol.org/pymol)
