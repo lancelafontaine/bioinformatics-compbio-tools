@@ -37,7 +37,12 @@ This repository contains a list of great bioinformatics (and computational biolo
 
 - [InterPro](http://www.ebi.ac.uk/interpro/) and [InterProScan5](http://www.ebi.ac.uk/Tools/pfa/iprscan5/)
 
-### 3D Molecular Modelling.
+### 2D RNA Molecular Structure Modelling.
+
+- [Mfold](http://mfold.rna.albany.edu/?q=mfold)
+- [UNAFold](http://mfold.rna.albany.edu/?q=unafold-man-pages)
+
+### 3D Protein Molecular Structure Modelling.
 
 - [PyMoL](http://pymol.org/pymol)
 - [BioBlender](http://www.bioblender.eu/)
