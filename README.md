@@ -35,7 +35,7 @@ This repository contains a list of great bioinformatics (and computational biolo
 
 ### Analysis of Protein Functional Domains.
 
--[InterPro](http://www.ebi.ac.uk/interpro/) and [InterProScan5](http://www.ebi.ac.uk/Tools/pfa/iprscan5/)
+- [InterPro](http://www.ebi.ac.uk/interpro/) and [InterProScan5](http://www.ebi.ac.uk/Tools/pfa/iprscan5/)
 
 ### 3D Molecular Modelling.
 
