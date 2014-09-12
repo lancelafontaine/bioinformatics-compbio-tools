@@ -30,6 +30,10 @@ This repository contains a list of useful bioinformatics (and computational biol
 - [PyMoL](http://pymol.org/pymol)
 - [BioBlender](http://www.bioblender.eu/)
 
+### Learning Resources.
+
+- [Rosalind](http://rosalind.info/problems/locations/)
+
 ### Question and Answer (Q&A) Websites.
 
 - [Biostars: Bioinformatics Explained](https://www.biostars.org/)
