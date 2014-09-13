@@ -8,6 +8,10 @@ This repository contains a list of great bioinformatics (and computational biolo
 - [ExPASy SIB Bioinformatics Resource Portal](http://www.expasy.org/)
 - [European Molecular Biology Laboratory - European Bioinformatics Institute (EMBL-EBI)](http://www.ebi.ac.uk/)
 
+### Sequence Alignment Search Tool.
+
+- [Basic Local Alignment Search Tool](http://blast.ncbi.nlm.nih.gov/Blast.cgi)
+
 ### Vector Viewing, Editing and Annotating.
 
 - [Benchling](https://benchling.com/)
