@@ -53,6 +53,13 @@ This repository contains a list of great bioinformatics (and computational biolo
 - [Mfold](http://mfold.rna.albany.edu/?q=mfold)
 - [UNAFold](http://mfold.rna.albany.edu/?q=unafold-man-pages)
 - [Quickfold](http://mfold.rna.albany.edu/?q=DINAMelt/Quickfold)
+- [alteRNA](http://compbio.cs.sfu.ca/nwp-content/software/taverna/)
+- [CONTRAfold](http://contra.stanford.edu/contrafold/)
+- [RNAstructure](http://rna.urmc.rochester.edu/rnastructure.html)
+- [ViennaRNA](http://www.tbi.univie.ac.at/RNA/)
+- [Kinfold](http://www.tbi.univie.ac.at/~xtof/RNA/Kinfold/)
+- [vsfold4](http://www.rna.it-chiba.ac.jp/~vsfold/vsfold4/)
+- [MC-FOLD](http://www.major.iric.ca/MC-Fold/)
 
 ### 3D Protein Molecular Structure Modelling.
 
