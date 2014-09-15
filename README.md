@@ -29,6 +29,7 @@ This repository contains a list of great bioinformatics (and computational biolo
 - [OligoAnalyzer](http://www.idtdna.com/analyzer/applications/oligoanalyzer/Default.aspx) by Integrated DNA Technologies (IDT)
 - [fr33.net - Life Science Tools](http://www.fr33.net/index.php)
 - [OligoCalc](http://www.basic.northwestern.edu/biotools/OligoCalc.html)
+- [4peaks](http://nucleobytes.com/index.php/4peaks) (**OS X**)
 
 ### Multiple Alignment.
 
@@ -38,13 +39,15 @@ This repository contains a list of great bioinformatics (and computational biolo
 - [Multalin](http://multalin.toulouse.inra.fr/multalin/)
 - [Molecular Evolutionary Genetics Analysis (MEGA)](http://www.megasoftware.net/)
 
-### Phylogenetic Analysis
+### Phylogenetic Analysis.
 
-- [Molecular Evolutionary Genetics Analysis (MEGA)](http://www.megasoftware.net/)
+- [Molecular Evolutionary Genetics Analysis (MEGA)](http://www.megasoftware.net/)(**Windows and OS X**)
 
-### Gene Identification
+### Gene Identification and Genome Assembly.
 
-- [GLIMMER](http://www.ncbi.nlm.nih.gov/genomes/MICROBES/glimmer_3.cgi) by NCBI
+- [GLIMMER](http://www.ncbi.nlm.nih.gov/genomes/MICROBES/glimmer_3.cgi) by NCBI (**Web**)
+- [AMOS](http://sourceforge.net/projects/amos/) (**Windows, Linux**)
+
 
 ### Analysis of Protein Functional Domains.
 
