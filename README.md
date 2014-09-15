@@ -1,3 +1,5 @@
+*This list is far from being complete. If you have any software suggestions, fork this list and submit a pull request, or email me at lance.lafontaine92@gmail.com and I'll accredit you for your suggestions. Thanks!*
+
 # Bioinformatics Tool List.
 
 This repository contains a list of great bioinformatics (and computational biology) tools. These web and desktop programs are all free unless indicated otherwise, and are sorted by category. Please contribute by forking this list!
