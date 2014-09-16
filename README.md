@@ -4,13 +4,15 @@
 
 This repository contains a list of great bioinformatics and computational biology tools. These web and desktop programs are all free unless indicated otherwise, and are sorted by category. Please contribute by forking this list!
 
-### General Resources and Databases.
+### General-Purpose Resources and Databases.
 
 - [National Center for Biotechnology Information (NCBI)](http://www.ncbi.nlm.nih.gov/) (**Web**)
 - [ExPASy SIB Bioinformatics Resource Portal](http://www.expasy.org/) (**Web**)
 - [European Molecular Biology Laboratory - European Bioinformatics Institute (EMBL-EBI)](http://www.ebi.ac.uk/) (**Web**)
 - [Research Collaboratory for Structural Bioinformatics Protein Data Bank (RCSB PDB)](http://www.rcsb.org/pdb/home/home.do) (**Web**)
+- [BioPieces](https://code.google.com/p/biopieces/) (**OS X, Linux**)
 - [Internation Genetically-Engineered Machine (iGEM) Registry of Standard Biological Parts](http://parts.igem.org/Main_Page) (**Web**)
+
 
 ### Sequence Alignment Search Tool.
 
@@ -30,8 +32,9 @@ This repository contains a list of great bioinformatics and computational biolog
 - [fr33.net - Life Science Tools](http://www.fr33.net/index.php) (**Web**)
 - [OligoCalc](http://www.basic.northwestern.edu/biotools/OligoCalc.html) (**Web**)
 - [4peaks](http://nucleobytes.com/index.php/4peaks) (**OS X**)
+- [BamView](http://bamview.sourceforge.net/) (**Web, Windows, OS X, Linux**)
 
-### Multiple Alignment.
+### Multiple Sequence Alignment.
 
 - [T-Coffee](http://tcoffee.crg.cat/apps/tcoffee/index.html) (**Web**)
 - [MUSCLE](http://www.ebi.ac.uk/Tools/msa/muscle/) (**Web**)
