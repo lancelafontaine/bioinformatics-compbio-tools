@@ -76,6 +76,7 @@ This repository contains a list of great bioinformatics and computational biolog
 ### Protein Structure Prediction
 
 - [SWISS-MODEL](http://swissmodel.expasy.org/?pid=smh01) (**Web**)
+- [SWISS-PDBViewer](http://spdbv.vital-it.ch/)
 - [Protein Structure Prediction Center](http://predictioncenter.org/) (**Web**)
 
 ### Mass Spectrometry Software
