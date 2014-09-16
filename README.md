@@ -13,6 +13,16 @@ This repository contains a list of great bioinformatics and computational biolog
 - [BioPieces](https://code.google.com/p/biopieces/) (**OS X, Linux**)
 - [Internation Genetically-Engineered Machine (iGEM) Registry of Standard Biological Parts](http://parts.igem.org/Main_Page) (**Web**)
 
+### Programming Libraries
+
+- [BioPython](http://biopython.org/wiki/Main_Page)
+- [BioRuby](http://bioruby.org/)
+- [BioPHP](http://biophp.org/)
+- [BioPerl](http://www.bioperl.org/wiki/Main_Page)
+- [.NET BIO](http://bio.codeplex.com/)
+- [BioJava](http://biojava.org/wiki/Main_Page)
+- [BioSmallTalk](https://code.google.com/p/biosmalltalk/)
+- [SeqAn](http://www.seqan.de/) (**C++**)
 
 ### Sequence Alignment Search Tool.
 
