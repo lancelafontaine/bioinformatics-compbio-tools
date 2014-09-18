@@ -61,6 +61,7 @@ This repository contains a list of great bioinformatics and computational biolog
 - [GLIMMER](http://www.ncbi.nlm.nih.gov/genomes/MICROBES/glimmer_3.cgi) by NCBI (**Web**)
 - [AMOS](http://sourceforge.net/projects/amos/) (**Windows, Linux**)
 - [BLAST Ring Image Generator (BRIG)](http://www.ncbi.nlm.nih.gov/pubmed/21824423) (**Windows, OS X, Linux**)
+- [Circos](http://circos.ca/) (**Windows, OS X, Linux**)
 
 
 ### Analysis of Protein Functional Domains.
