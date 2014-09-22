@@ -56,14 +56,15 @@ This repository contains a list of great bioinformatics and computational biolog
 
 - [Molecular Evolutionary Genetics Analysis (MEGA)](http://www.megasoftware.net/) (**Windows and OS X**)
 
-### Gene Identification, Genome Assembly and Comparative Genomics.
+### Gene Identification, Genome Assembly, Comparative Genomics.
 
 - [GLIMMER](http://www.ncbi.nlm.nih.gov/genomes/MICROBES/glimmer_3.cgi) by NCBI (**Web**)
 - [AMOS](http://sourceforge.net/projects/amos/) (**Windows, Linux**)
 - [BLAST Ring Image Generator (BRIG)](http://www.ncbi.nlm.nih.gov/pubmed/21824423) (**Windows, OS X, Linux**)
 - [Circos](http://circos.ca/) (**Windows, OS X, Linux**)
 - [Cortex](http://cortexassembler.sourceforge.net/index.html) (**C**)
-- [The CLEVER Toolkit](https://code.google.com/p/clever-sv/)(**C++ and Python**)
+- [The CLEVER Toolkit](https://code.google.com/p/clever-sv/) (**C++ and Python**)
+- [EasyFig](http://easyfig.sourceforge.net/) (**Python Library**)
 
 
 ### Analysis of Protein Functional Domains.
