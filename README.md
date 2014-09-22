@@ -62,6 +62,8 @@ This repository contains a list of great bioinformatics and computational biolog
 - [AMOS](http://sourceforge.net/projects/amos/) (**Windows, Linux**)
 - [BLAST Ring Image Generator (BRIG)](http://www.ncbi.nlm.nih.gov/pubmed/21824423) (**Windows, OS X, Linux**)
 - [Circos](http://circos.ca/) (**Windows, OS X, Linux**)
+- [Cortex](http://cortexassembler.sourceforge.net/index.html) (**C**)
+- [The CLEVER Toolkit](https://code.google.com/p/clever-sv/)(**C++ and Python**)
 
 
 ### Analysis of Protein Functional Domains.
