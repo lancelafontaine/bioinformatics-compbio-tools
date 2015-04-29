@@ -15,12 +15,13 @@ This repository contains a list of great bioinformatics and computational biolog
 
 ### Programming Libraries
 
+- [.NET BIO](http://bio.codeplex.com/)
+- [BioGo](https://github.com/biogo)
+- [BioJava](http://biojava.org/wiki/Main_Page)
+- [BioPerl](http://www.bioperl.org/wiki/Main_Page)
+- [BioPHP](http://biophp.org/)
 - [BioPython](http://biopython.org/wiki/Main_Page)
 - [BioRuby](http://bioruby.org/)
-- [BioPHP](http://biophp.org/)
-- [BioPerl](http://www.bioperl.org/wiki/Main_Page)
-- [.NET BIO](http://bio.codeplex.com/)
-- [BioJava](http://biojava.org/wiki/Main_Page)
 - [BioSmallTalk](https://code.google.com/p/biosmalltalk/)
 - [SeqAn](http://www.seqan.de/) (**C++**)
 
