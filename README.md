@@ -102,6 +102,9 @@ This repository contains a list of great bioinformatics and computational biolog
 
 - [MS-FIT](http://prospector.ucsf.edu/prospector/cgi-bin/msform.cgi?form=msfitstandard) (**Web**)
 
+### Short Read Sequence Typing
+- [SRST2](https://katholt.github.io/srst2/)
+
 ### Learning Resources.
 
 - [Rosalind](http://rosalind.info/problems/locations/) (**Web**)
