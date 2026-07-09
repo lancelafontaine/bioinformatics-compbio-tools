@@ -36,6 +36,7 @@ This repository contains a list of great bioinformatics and computational biolog
 - [j5 Vector Editor](http://j5.jbei.org/VectorEditor/VectorEditor.html) by the Joint BioEnergy Resource (**Web**)
 - [GENtle](https://gentle.synbiota.com/) by Synbiota (**Web**)
 - [SnapGene](http://www.snapgene.com/) (**Windows, OS X**)
+- [SeqBench](https://seqbench.com/) (**Web**)
 
 ### Single Sequence Editing and Analysis.
 
