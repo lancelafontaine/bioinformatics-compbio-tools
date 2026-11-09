@@ -13,6 +13,10 @@ This repository contains a list of great bioinformatics and computational biolog
 - [BioPieces](https://code.google.com/p/biopieces/) (**OS X, Linux**)
 - [Internation Genetically-Engineered Machine (iGEM) Registry of Standard Biological Parts](http://parts.igem.org/Main_Page) (**Web**)
 
+### Variant Literature and Evidence Review.
+
+- [Paper Possum](https://paperpossum.info/) (**Web**, free during beta; workspace account required) searches variant literature and provides source context, evidence review and Excel export.
+
 ### Programming Libraries
 
 - [.NET BIO](http://bio.codeplex.com/)
